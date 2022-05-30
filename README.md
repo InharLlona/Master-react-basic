@@ -1,1 +1,2 @@
-# Master-react-basic
+username: admin
+password: test
